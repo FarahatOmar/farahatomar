@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile! 👋
 
-![Welcome Banner](https://your-image-url.com/banner.png)
+![](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611neko40fq5qcaedjwf0uttjoz3tloudxsezrgyisr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## About Me
 I'm a passionate developer working with JavaScript, React, and Node.js. I love building projects that solve real-world problems.
@@ -13,6 +13,7 @@ I'm a passionate developer working with JavaScript, React, and Node.js. I love b
 ![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 
+
 ---
 
 ### 📊 My GitHub Stats
@@ -23,4 +24,5 @@ I'm a passionate developer working with JavaScript, React, and Node.js. I love b
 ---
 
 ### 🌟 Check Out My Projects
-- [Project](https://github.com/FarahatOmar/RememberMe) 
+- [RememberMe](https://github.com/FarahatOmar/RememberMe)
+- 
