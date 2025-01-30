@@ -1,7 +1,6 @@
 
 # Hello! 👋
 
-![](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611neko40fq5qcaedjwf0uttjoz3tloudxsezrgyisr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## About Me
 I am a Software engineer with a background in IoT engineering. I create clean, modern applications that solve real-world problems, focusing on delivering user-centric experiences.
