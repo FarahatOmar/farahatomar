@@ -43,10 +43,8 @@ I'm currently looking for exciting roles in:
 ---
 
 ## 🌌 Recent Projects
-Here are some of the cool projects I’ve been working on! 🌟
-### 🧑‍💻 [RememberMe](https://github.com/FarahatOmar/RememberMe)
-> **Description**: web application that helps users manage and remember people's names, locations where they met, and unique details about them.
-> - **Tech Stack**: JavaScript, Node.js, MongoDB
+###  [SmartSpine(Mobile app)](https://github.com/FarahatOmar/SmartSpine)
+
 
 
 
